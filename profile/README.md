@@ -6,6 +6,6 @@ This GitHub organization collects repositories containing
 - documentation about CLDF or
 - tools to work with CLDF
 
-For collections of repositories holding CLDF data, see [cldf-datasets](https://github.com/cldf-datasets), [lexibank](https://github.com/lexibank) or [dictionaria](https://github.com/dictionaria) or [search Zenodo](https://zenodo.org/search?keywords=cldf:Wordlist&keywords=cldf:StructureDataset).
+For collections of repositories holding CLDF data, see [cldf-datasets](https://github.com/cldf-datasets), [lexibank](https://github.com/lexibank) or [dictionaria](https://github.com/dictionaria) or [search Zenodo](https://zenodo.org/search?q=keywords%3A%2Fcldf%3A%28Wordlist%7CStructureDataset%29%2F&l=list&p=1&s=10&sort=newest).
 
 Many CLDF datasets are deposited on Zenodo for longterm access. Such datasets can be retrieved programmatically using [cldfzenodo](https://github.com/cldf/cldfzenodo).
